@@ -1,0 +1,41 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+  padding-bottom: 10px;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color:rgb(143, 177, 19);
+  border-radius:0px ;
+  border: 0px;
+}
+
+.navbar-brand{
+  padding: 25px;
+  font-size: 24px;
+  color:white;
+ 
+  font-weight: bold;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+  text-decoration: none;
+}
+.row{
+  background-color: brown;
+  padding: 10px;
+  
+}
+#chicken,#beef,#shushi{
+ 
+  padding: 20px;
+  font-family: 'Abril Fatface', cursive;
+  margin-bottom: 60px;
+  box-shadow: 0 0 80px #18580b;
+}
+ul{
+  font-weight: bold;
+  font-size: 1.4em;
+}
